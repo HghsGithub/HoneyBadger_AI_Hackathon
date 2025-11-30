@@ -19,8 +19,10 @@ It prevents accidental leaks of confidential, sensitive, or private information 
 ---
 
 ## Demo
-- Live Demo: [Insert your Streamlit link here]  
-- YouTube Demo: [Watch here](https://youtu.be/yZJ2KRvARVo?feature=shared)
+## Project Links
+- **GitHub Repository:** [HoneyBadger AI Hackathon](https://github.com/HghsGithub/HoneyBadger_AI_Hackathon)
+- **YouTube Demo:** [Watch Demo](https://youtu.be/yZJ2KRvARVo?feature=shared)
+
 
 ---
 

@@ -6,7 +6,7 @@ import numpy as np
 # ----------------------------
 # Load Model Bundle
 # ----------------------------
-BUNDLE_PATH = "/content/drive/MyDrive/AI_Safety_App/model_bundle.pkl"
+BUNDLE_PATH = "model_bundle.pkl"
 
 @st.cache_resource
 def load_model_bundle():
